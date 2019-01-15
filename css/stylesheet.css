@@ -1,0 +1,49 @@
+body {
+  background-color: #ffffff;
+  font-family: 'Montserrat', sans-serif;
+  color: #191919;
+}
+
+.container {
+  width: 1290px;
+  margin: 0 auto;
+}
+#modelGrid {
+  width: 100%;
+}
+.box {
+  display: inline-block;
+  width: 400px;
+  /* height: 400px; */
+  margin: 15px 15px 90px 15px;
+}
+
+h1 {
+  font-family: 'Press Start 2P', Arial, cursive;
+}
+h1, h2 {
+  text-transform: uppercase;
+}
+a {
+  text-decoration: none;
+}
+.tag {
+  text-transform: uppercase;
+  font-weight: bold;
+}
+.text {
+  margin: 90px 15px 15px 15px;
+}
+footer {
+  margin: 15px 15px 90px 15px;
+}
+
+
+.blinkMe {
+  animation: blinker 1s linear infinite;
+}
+@keyframes blinker {
+  50% {
+    opacity: 0;
+  }
+}
