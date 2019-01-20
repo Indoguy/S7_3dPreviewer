@@ -50,3 +50,8 @@ This is what happens behind the scenes:
 ## Future Updates
 * Interval refresh, this is handy for when the JSON file is dynamic
 * Auto fill, this will automatically give the models a specific colour
+
+## License
+Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)
+Ties Aarts 2019 &copy;
+
