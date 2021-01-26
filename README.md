@@ -1,5 +1,5 @@
-# 3D Previewer
-This is a previewer for 3D models. It will serve the 3D print platform at Fontys, by previewing the models in the queue. You can see an example of the library in a different use, here http://www.tiesfa.com/3dGrid/index.html
+# 3D Previewer :eyes:
+This is a previewer for 3D models. It will serve the 3D print platform at Fontys, by previewing the models in the queue.
 
 ## Getting Started
 
